@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>fonts/Gotham-Black.otf</file>
+        <file>fonts/GothamBold.ttf</file>
+        <file>fonts/GothamBoldItalic.ttf</file>
+        <file>fonts/GothamBook.ttf</file>
+        <file>fonts/GothamBookItalic.ttf</file>
+        <file>fonts/GothamLight.ttf</file>
+        <file>fonts/GothamLightItalic.ttf</file>
+        <file>fonts/GothamMedium.ttf</file>
+        <file>fonts/Gotham-Thin.otf</file>
+        <file>fonts/Gotham-ThinItalic.otf</file>
+        <file>fonts/Gotham-UltraItalic.otf</file>
+        <file>assets/icons/github.png</file>
+        <file>assets/icons/instagram.png</file>
+        <file>assets/icons/linkedin.png</file>
+        <file>assets/icons/twitter.png</file>
+        <file>assets/icons/facebook.png</file>
+        <file>assets/icons/telegram.png</file>
+        <file>assets/icons/whatsapp.png</file>
+        <file>assets/icons/skype.png</file>
+        <file>assets/icons/graduation-cap.png</file>
+        <file>assets/icons/education.png</file>
+        <file>assets/icons/heart.png</file>
+        <file>assets/icons/projects.png</file>
+        <file>assets/icons/instructor.png</file>
+        <file>assets/icons/honors.png</file>
+        <file>assets/icons/publications.png</file>
+        <file>assets/icons/thesis.png</file>
+        <file>assets/Mohammad.jpg</file>
+        <file>assets/icons/conferences.png</file>
+        <file>assets/icons/courseworks.png</file>
+        <file>assets/icons/recommendations.png</file>
+        <file>assets/icons/skills.png</file>
+        <file>assets/icons/education-hover.png</file>
+        <file>assets/icons/heart-hover.png</file>
+        <file>assets/icons/projects-hover.png</file>
+        <file>assets/icons/conferences-hover.png</file>
+        <file>assets/icons/courseworks-hover.png</file>
+        <file>assets/icons/honors-hover.png</file>
+        <file>assets/icons/instructor-hover.png</file>
+        <file>assets/icons/publications-hover.png</file>
+        <file>assets/icons/recommendations-hover.png</file>
+        <file>assets/icons/skills-hover.png</file>
+        <file>assets/icons/thesis-hover.png</file>
+    </qresource>
+</RCC>
